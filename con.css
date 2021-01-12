@@ -1,0 +1,16 @@
+body{
+  background: #262626;  
+}
+p{
+  color:white;
+  text-align: center;
+}
+h3{
+  color:white;
+  text-align: center;
+}
+h3 a{
+  text-decoration: none;
+  color:yellow;
+  font-family: Gill Sans;
+}
